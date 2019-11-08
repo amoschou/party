@@ -9,3 +9,7 @@
 
 ### Seating
 ### Tables
+
+## Decoration
+
+### Lights
