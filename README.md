@@ -1,3 +1,3 @@
 # Ideas for the party
 
-See the Wiki
+[See the Wiki](https://github.com/amoschou/party/wiki)
